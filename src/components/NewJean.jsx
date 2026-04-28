@@ -10,7 +10,7 @@ export default function NewJean() {
                         <div>
                             
                             
-                              <img src="./public/njz.jpeg" alt="logo" />
+                              <img src="./njz.jpeg" alt="logo" />
                         </div>
                         <nav className="desk">
                               <span>
@@ -55,11 +55,11 @@ export default function NewJean() {
                   <main>
                         <section>
                               <div className="img1" >
-                                    <img src="./public\newj.png" alt="bg-img" />
+                                    <img src="./newj.png" alt="bg-img" />
                                     
                               </div>
                               <div className="mobimg">
-                                    <img src="./public\new-2.png" alt="mobile-img" />
+                                    <img src="./new-2.png" alt="mobile-img" />
                               </div>
                               <div className="txt1">
                                     <p>NewJeans is a South Korean girl group formed by ADOR, a sub-label of Hybe. The group debuted with five members: Minji, Hanni, Danielle, Haerin, and Hyein. Formerly produced by Min Hee-jin, they are known for their girl next door image and musical stylings reminiscent of the 1990s and 2000s.</p>
@@ -73,7 +73,7 @@ export default function NewJean() {
 
                               <div className="sec2">
                                     <div className="sec2-img">
-                                          <img src="./public/hanni.png" alt="Hanni" />
+                                          <img src="./hanni.png" alt="Hanni" />
                                           
                                     </div>
                                     <div className="sec2-txt">
@@ -85,7 +85,7 @@ export default function NewJean() {
                               {/* no 2 */}
                               <div className="sec2">
                                     <div className="sec2-img">
-                                          <img src="./public/danielle.png" alt="Danielle" />
+                                          <img src="./danielle.png" alt="Danielle" />
                                         
                                     </div>
                                     <div className="sec2-txt">
@@ -97,7 +97,7 @@ export default function NewJean() {
                               {/* no3 */}
                               <div className="sec2">
                                     <div className="sec2-img">
-                                          <img src="./public/minji.png" alt="Minji" />
+                                          <img src="./minji.png" alt="Minji" />
                                       
                                     </div>
                                     <div className="sec2-txt">
@@ -109,7 +109,7 @@ export default function NewJean() {
                               {/* no 4 */}
                               <div className="sec2">
                                     <div className="sec2-img">
-                                          <img src="./public/haerin.png" alt="Haerin" />
+                                          <img src="./haerin.png" alt="Haerin" />
                                       
                                     </div>
                                     <div className="sec2-txt">
@@ -121,7 +121,7 @@ export default function NewJean() {
                               {/* no 5 */}
                               <div className="sec2">
                                     <div className="sec2-img">
-                                          <img src="./public/hyerin.png" alt="Hyein" />
+                                          <img src="./hyerin.png" alt="Hyein" />
                                           
                                     </div>
                                     <div className="sec2-txt">
@@ -175,19 +175,19 @@ export default function NewJean() {
                   <footer>
 
                         <div className="footimg">
-                              <img src="./public/njzz.png" alt="bunny" />
+                              <img src="./njzz.png" alt="bunny" />
                         </div>
                         <div className="links">
                               <ul>
                                     <li>
-                                          <img src="./public/Spotify Logo_.png" alt="" />
+                                          <img src="./Spotify Logo_.png" alt="" />
                                           <a href="https://open.spotify.com/artist/6HvZYvR2fszIU3qGZWt6J2" target="_blank">spoitfy</a>
                                     </li>
                                     <li>
-                                          <img src="./public/YTBMSC.png" alt="" />
+                                          <img src="./YTBMSC.png" alt="" />
                                           <a href="https://music.youtube.com/channel/UCM7sJ88O9_BOC87V62v96_A" target="_blank">youtube music</a></li>   
                                     <li>
-                                          <img src="./public\Apple music logo.png" alt="" />
+                                          <img src="./Apple music logo.png" alt="" />
                                           <a href="https://music.apple.com/artist/newjeans/1635469693" target="_blank">apple music</a>
                                     </li>
                                     
